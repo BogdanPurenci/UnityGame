@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - turn_Enemy2
+  - Enemy
+  - Traps
+  - Water
+  - Weak Point
+  - Coin
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Wall
+  - Enemy1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 677607449
+    locked: 0
+  - name: ground
+    uniqueID: 748479143
+    locked: 0
+  - name: player
+    uniqueID: 3835842467
+    locked: 0
